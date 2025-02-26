@@ -42,7 +42,8 @@ poetry install
 #  Run WebSocket Server
 poetry run python main.py
 
-## 📌 Live Vehicle Tracking
-<img src="image.png" alt="Live Tracking" width="500">
+## Live Vehicle Tracking
+![Live Tracking](./live-tracking.png)
+
 
 
