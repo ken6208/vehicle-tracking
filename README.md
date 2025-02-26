@@ -42,5 +42,6 @@ poetry install
 #  Run WebSocket Server
 poetry run python main.py
 
+![alt text](image.png)
 
 
